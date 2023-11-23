@@ -7,7 +7,8 @@ Created: November, 3 2023
 Program: convert.py
 
 About: Takes a .wma audio file and converts it into a .mp3. It uses ffmpeg to convert the wma audio file into mp3. 
-It does all in one. Given the correct input and output path. This script was designed to work on linux but could in theory workon other opreating systems.
+It does all in one. Given the correct input and output path. This script was designed to work on linux but could in theory work
+ on other opreating systems.
 
 """
 
